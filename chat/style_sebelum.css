@@ -1,0 +1,20 @@
+html {
+	height:100%;
+}
+body {
+background: #f2f3f4; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #f2f3f4 28%, #828c95 78%, #375987 100%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(28%,#f2f3f4), color-stop(78%,#828c95), color-stop(100%,#375987)); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, ellipse cover,  #f2f3f4 28%,#828c95 78%,#375987 100%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, ellipse cover,  #f2f3f4 28%,#828c95 78%,#375987 100%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover,  #f2f3f4 28%,#828c95 78%,#375987 100%); /* IE10+ */
+background: radial-gradient(ellipse at center,  #f2f3f4 28%,#828c95 78%,#375987 100%); 
+height:100%;
+height: 100%;
+margin: 0;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+h1{
+text-shadow: 2px 2px #333300;
+}
